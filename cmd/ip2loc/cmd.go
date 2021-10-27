@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/techxmind/ip2location"
+	"github.com/duxiu-robot/ip2location"
 )
 
 func main() {

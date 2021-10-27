@@ -1,6 +1,6 @@
 # 命令行
 ```
-go get github.com/techxmind/ip2location/cmd/ip2loc
+go get github.com/duxiu-robot/ip2location/cmd/ip2loc
 
 ip2loc -h
 ip2loc 113.143.136.174 123.15.145.134
@@ -11,7 +11,7 @@ ip2loc 113.143.136.174 123.15.145.134
 import (
     "fmt"
 
-    "github.com/techxmind/ip2location"
+    "github.com/duxiu-robot/ip2location"
 )
 
 ip := "123.15.145.134"
